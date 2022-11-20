@@ -11,8 +11,8 @@ class AuthHandler{
     getAccount(){
         return {
             id:'EMP01',
-            name:'Ashish Yadav',
-            designation:'Project Manager'
+            name:'Shailesh Kumar',
+            designation:'Employee'
         }
     }
 }
